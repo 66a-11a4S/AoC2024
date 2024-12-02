@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using AoC2024;
 
-Console.WriteLine("Hello, World!");
+Day1.Solve2();

@@ -7,4 +7,15 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="PuzzleInputs\" />
+    </ItemGroup>
+
+    <!-- bin に Resources 以下のフォルダをコピー -->
+    <ItemGroup>
+        <Content Include="PuzzleInputs\**">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
 </Project>

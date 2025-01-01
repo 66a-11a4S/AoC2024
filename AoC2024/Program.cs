@@ -1,3 +1,3 @@
 ﻿using AoC2024;
 
-Day19.Solve2();
+Day20.Solve2();

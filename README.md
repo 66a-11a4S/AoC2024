@@ -7,4 +7,4 @@ My solutions for Advent of Code 2024 ( https://adventofcode.com/2024 )
 
 * Change the following part to the puzzles you want to execute and run it.
 
-[https://github.com/66a-11a4S/AoC2023/blob/e764ef31b2e5cb26f0419c1b76363645b70174f9/main.cpp#L3-L6](https://github.com/66a-11a4S/AoC2024/blob/main/AoC2024/Program.cs#L3)
+https://github.com/66a-11a4S/AoC2024/blob/97d0b92c6399acec161cbaa64550812c4e94a26f/AoC2024/Program.cs#L3
